@@ -1,4 +1,4 @@
-# Vue # Modal
+# Vue 3 Modal
 
 ## Project setup
 ```
